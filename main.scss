@@ -62,6 +62,12 @@ body {
         }
       }
     }
+    @media screen and (max-width: 850px){
+      .choices {
+        width: 250px
+      }
+    }
+
   }
   #progress {
     font-size: 1.3rem;
